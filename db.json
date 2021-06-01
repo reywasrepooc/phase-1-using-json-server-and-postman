@@ -1,0 +1,32 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Example Article",
+      "content": "This is an example."
+    },
+    {
+      "id": 2,
+      "title": "Second Article",
+      "content": "This is also an example."
+    },
+    {
+      "id": 3,
+      "tile": "This one is for papa",
+      "content": "It is go time baby!"
+    },
+    {
+      "id": 4,
+      "title": "Third Article",
+      "content": "Another example!",
+      "body": "time for another one!",
+      "body": "And Another one"
+    }
+  ],
+  "Photos": [
+      {
+          "title": "here come the boom",
+          "header": "its boom time"
+      }
+  ]
+}
